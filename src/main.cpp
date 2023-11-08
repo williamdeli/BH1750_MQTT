@@ -2,7 +2,7 @@
 //nim : 2540119702
 //uts : IOT
 //no : 3
-//link video : https://youtu.be/bfiMg4e6FEY
+//link video : https://youtu.be/xv7TlQYe0nc?si=MBQ9I7sYpJS2JIrx
 
 #include <Wire.h> 
 #include <BH1750.h>
